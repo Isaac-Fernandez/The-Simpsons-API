@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "simpsons-api",
+  "version": "1.0.0",
+  "description": "Esta sera una pagina con una conexion a una API con la tematica de los Simpsons",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Fernandez",
+  "license": "ISC"
+}
